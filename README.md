@@ -1,3 +1,2 @@
 # LinkedList.js
-Linked list library for JavaScript 
-readme
+Linked list library for JavaScript!
